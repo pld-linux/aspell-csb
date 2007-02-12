@@ -1,5 +1,5 @@
 Summary:	Kashubian dictionary for aspell
-Summary(pl):	S≥ownik kaszubski dla aspella
+Summary(pl.UTF-8):   S≈Çownik kaszubski dla aspella
 Name:		aspell-csb
 Version:	0.02
 %define	subv	0
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Kashubian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik kaszubski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik kaszubski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-csb-%{version}-%{subv}
