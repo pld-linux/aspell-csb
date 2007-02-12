@@ -1,5 +1,5 @@
 Summary:	Kashubian dictionary for aspell
-Summary(pl.UTF-8):   Słownik kaszubski dla aspella
+Summary(pl.UTF-8):	Słownik kaszubski dla aspella
 Name:		aspell-csb
 Version:	0.02
 %define	subv	0
