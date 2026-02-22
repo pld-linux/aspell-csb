@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik kaszubski dla aspella
 Name:		aspell-csb
 Version:	0.02
 %define	subv	0
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/csb/aspell6-csb-%{version}-%{subv}.tar.bz2
